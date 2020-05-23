@@ -10,7 +10,8 @@ In skeletal animation a character is represented in two parts:
 1. a surface used to draw the character, and 
 1. a hierarchical set of interconnected bones used to animate the surface. 
 
-In Pose Animator, the surface is defined by the 2D vector paths in the input SVG files. For the bone structure, Pose Animator provides a predefined rig (bone hierarchy) representation, designed based on the keypoints from PoseNet and FaceMesh. This bone structure’s initial pose is specified in the input SVG file, along with the character illustration, while the real time bone positions are updated by the recognition result from ML models.
+In Pose Animation, the surface is defined by the 2D vector paths in the input SVG files.
+And for the bone structure, Pose Animation provides a predefined rig (bone hierarchy) representation, designed based on the keypoints from PoseNet and FaceMesh. This bone structure’s initial pose is specified in the input SVG file, along with the character illustration, while the real time bone positions are updated by the recognition result from ML models.
 
 <img src="/files/gif/avatar.gif?raw=true" alt="cameraDemo" style="width: 250px;"/>
 
