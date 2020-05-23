@@ -41,7 +41,7 @@ To watch files for changes, and launch a dev server:
 yarn watch
 ```
 
-## Credits
+# Credits
 This project is inspired by the work of @yemount. I got very much help from that account and I've used the same website casue I can't buy a domain right now and the I also used .svg from that account.
 I don't feel shy to say that I have taken things from others cause I love to work with this things and explore with development.
 
